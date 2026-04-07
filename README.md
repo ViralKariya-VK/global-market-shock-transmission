@@ -64,7 +64,7 @@ Daily time series data (2007–2025):
 
 ## Project Structure
 
-global-market-shock-transmission
+global-market-shock-transmission \
 ├── notebooks/ \
 ├── src/ \
 └── README.md 
