@@ -41,7 +41,7 @@ The analysis follows a structured econometric pipeline:
 
 ## Data
 
-Daily time series data (2007–2025):
+Daily time series data (2007 – March'26):
 
 - S&P 500 (US equity market)  
 - NIFTY 50 (Indian equity market)  
